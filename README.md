@@ -13,3 +13,7 @@ This is where you can find all my github projects that I like to keep and share.
 ### Other People's GitHub Pages
 
 none.
+
+### Important Links
+
+[How to Create a Free Website Using GitHub Pages](https://youtu.be/o5g-lUuFgpg) - Instructions on how to make a nice website on GitHub.
