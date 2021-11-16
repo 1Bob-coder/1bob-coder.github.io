@@ -6,9 +6,9 @@ This is where you can find all my github projects that I like to keep and share.
 
 [Test Station app for Windows](https://1bob-coder.github.io/test-station) - Web page for AutoIt code performing requirements verification tests for specified hardware.
 
-[Jenkins usercontent files](https://github.com/1Bob-coder/usercontent) - Jenkins build and test files for specified hardware.
+[Jenkins usercontent files](https://1Bob-coder.github.io/userContent) - Jenkins build and test files for specified hardware.
 
-[Various Scripts](https://github.com/1Bob-coder/scripts) - Script files for Linux.  Most useful might be the two inheritance script files.
+[Various Scripts](https://1Bob-coder.github.io/scripts) - Script files for Linux.  Most useful might be the two inheritance script files.
 
 ### Other People's GitHub Pages
 
