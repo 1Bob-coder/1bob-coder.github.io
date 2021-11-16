@@ -10,6 +10,8 @@ This is where you can find all my github projects that I like to keep and share.
 
 [Various Scripts](https://1Bob-coder.github.io/scripts) - Script files for Linux.  Most useful might be the two inheritance script files.
 
+[All Projects](https://github.com/1Bob-coder/) - My github home page.
+
 ### Other People's GitHub Pages
 
 none.
